@@ -1,17 +1,15 @@
-
+<!--
 <img src="/imagemCabecalho.PNG"  width=100% height=15% alt="Banner Exchange Rate Api" title="Banner Exchange Rate Api" >
-
-
-
+-->
 # Api Tabela fipe de Automóveis - Java
 
 Este programa foi construído para consumir a API da tabela FIPE , esta tabela mostra a 
 avaliação monetária de veículos, ela se torna importante quando precisamos negociar um 
 veículo e saber o seu Real valor , que é fornecido por esta tabela. Consumimos a Api e 
-trabalhamos os dados que nso foram retornados afim de atender a algumas questões de entra
-da do teclado pelo usuário. Aqui vc pode consultar carro , motos ou caminhão e depois digitar
-o código da marca que deseja encontrar os valores na tabela  e depois vc digita o código do
-modelo do caaro desejado e pronto.. vc terá a resposta do valor do veículo consultado. 
+trabalhamos os dados que foram retornados afim de atender a algumas questões de entrada
+do teclado pelo usuário. Aqui vc pode consultar carro, motos ou caminhão e depois digitar
+o código da marca que deseja encontrar os valores na tabela e depois vc digita o código do
+modelo do carro desejado e pronto.. vc terá a resposta do valor do veículo consultado. 
 Utilizamos a dependência Jackson  no projeto.
 
 
